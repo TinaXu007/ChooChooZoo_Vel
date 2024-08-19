@@ -1,0 +1,39 @@
+ScreenTestButtons
+Time, ButtonType, ButtonPressDuration
+10.00551,0.05208111,spacebar
+10.00551,0.05208111,downarrow
+11.59007,0.06935024,spacebar
+11.59007,0.06935024,downarrow
+11.59007,0.06935024,downarrow
+11.59007,0.06935024,downarrow
+13.57664,0.05690193,spacebar
+13.57664,0.05690193,downarrow
+13.57664,0.05690193,downarrow
+13.57664,0.05690193,downarrow
+16.36215,0.05984116,spacebar
+16.36215,0.05984116,downarrow
+16.36215,0.05984116,downarrow
+19.32403,0.06529427,spacebar
+19.32403,0.06529427,downarrow
+19.32403,0.06529427,downarrow
+21.05895,0.3440914,spacebar
+
+Number of spacebar presses, Number of down arrow key presses
+6,13
+
+ElephantMinigame
+Time, ButtonType, ButtonPressDuration
+26.45545,0.08967972,spacebar
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+26.45545,0.08967972,downarrow
+30.87393,0.09222031,spacebar
+
+Number of spacebar presses, Number of down arrow key presses
+2,10
+
+

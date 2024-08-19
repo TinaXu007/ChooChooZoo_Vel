@@ -1,0 +1,6 @@
+Beginning of the log file
+What is your name?
+Kevin Xu
+What is your birthday?
+October 
+

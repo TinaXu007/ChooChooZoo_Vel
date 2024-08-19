@@ -1,0 +1,38 @@
+Beginning of the log file
+Time, ButtonType, ButtonPressDuration
+0.4244466,Space,,
+2.758825,Space,2.334379,
+3.767143,DownArrow,,
+3.833922,DownArrow,0.0667789,
+3.916589,DownArrow,,
+3.98393,DownArrow,0.06734109,
+4.086441,DownArrow,,
+4.140539,DownArrow,0.05409813,
+4.416535,DownArrow,,
+4.468483,DownArrow,0.05194807,
+5.039016,Space,,
+5.112278,Space,0.07326269,
+5.91326,DownArrow,,
+5.953522,DownArrow,0.04026222,
+6.092517,DownArrow,,
+6.143735,DownArrow,0.05121756,
+6.497305,DownArrow,,
+6.551617,DownArrow,0.05431223,
+6.991049,DownArrow,,
+8.157204,DownArrow,1.166154,
+8.478006,DownArrow,,
+8.544334,DownArrow,0.06632805,
+9.398122,Space,,
+9.466337,Space,0.06821537,
+10.75146,DownArrow,,
+10.82812,DownArrow,0.07666016,
+11.11426,DownArrow,,
+11.15849,DownArrow,0.04422474,
+13.09028,Space,,
+13.13511,Space,0.04482651,
+Number of Button Presses
+Spacebar
+4
+Down Arrow
+11
+

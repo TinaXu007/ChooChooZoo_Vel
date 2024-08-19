@@ -1,0 +1,10 @@
+Beginning of the log file
+Press now!
+user: buttoncorrect: button
+Press the left one!
+user: leftcorrect: left
+Press the right one!
+user: rightcorrect: right
+Which one is blue?
+user: bluecorrect: blue
+

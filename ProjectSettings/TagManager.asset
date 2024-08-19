@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rails
+  - TurnoutRails
+  - SWTconnection
+  - Hand
+  - Food
+  - Animal
+  - Star
+  - Train
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Icon
+  - 
+  - RailGuide
+  - TrainWheels
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: IconTop
+    uniqueID: 1336374805
+    locked: 1
+  - name: Default
+    uniqueID: 0
+    locked: 0

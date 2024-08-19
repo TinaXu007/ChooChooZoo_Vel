@@ -1,0 +1,7 @@
+ScreenTestButtons
+Time, ButtonType, ButtonPressDuration
+
+Number of spacebar presses, Number of down arrow key presses
+0,0
+
+
