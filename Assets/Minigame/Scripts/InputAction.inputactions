@@ -1,0 +1,54 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "5caf0d0b-aea1-440b-9bac-56f09fa2bbac",
+            "actions": [
+                {
+                    "name": "Right Button",
+                    "type": "Button",
+                    "id": "97bd5b7c-571b-44b4-b599-9a1216bcb79d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Left Button",
+                    "type": "Button",
+                    "id": "f3da7635-4571-43a1-866c-6fa378fca52e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c8b9a53c-1461-4463-91f3-650cec1fee24",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right Button",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9577bb52-8513-45a5-956f-0cc1e78ea720",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Button",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
