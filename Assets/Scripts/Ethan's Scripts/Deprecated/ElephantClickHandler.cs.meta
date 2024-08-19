@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Ethan's Scripts/ElephantClickHandler.cs.meta
+guid: b21a42738b3bc0740bd020b5a9630335
+========
+guid: 66df72a569be16448bd6a21bc087a508
+>>>>>>>> Dev_Merge:Assets/Scripts/Ethan's Scripts/Camera_Focus.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
