@@ -11,9 +11,13 @@ namespace KartGame.KartSystems {
         public override InputData GenerateInput() {
             return new InputData
             {
+                arduinoController = ArduinoConnector.Instance.receivedString.Split(',').ToList();
+                // moveInput = float.Parse(arduinoController[0])/2;
+                TurnInput = float.Parse(arduinoController[1]);
+                
                 Accelerate = Input.GetButton(AccelerateButtonName),
                 Brake = Input.GetButton(BrakeButtonName),
-                TurnInput = Input.GetAxis("Horizontal")
+                // TurnInput = Input.GetAxis("Horizontal")
             };
         }
     }
